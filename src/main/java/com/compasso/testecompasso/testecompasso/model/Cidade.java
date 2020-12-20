@@ -4,6 +4,8 @@ import com.sun.istack.NotNull;
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
+import java.util.HashSet;
+import java.util.Set;
 
 @Entity
 @Table(name = "Cidade")
@@ -23,23 +25,16 @@ public class Cidade implements Serializable {
     @NotBlank
     private String uf;
 
-    @OneToOne
-    private Cliente cliente;
-
-    public Cliente getCliente() {
-        return cliente;
-    }
-
-    public void setCliente(Cliente cliente) {
-        this.cliente = cliente;
-    }
-
     public Cidade(@NotBlank String nome, @NotBlank String uf) {
         this.nome = nome;
         this.uf = uf;
     }
 
     public Cidade() {
+    }
+
+    public Long getId() {
+        return id;
     }
 
     public String getNome() {

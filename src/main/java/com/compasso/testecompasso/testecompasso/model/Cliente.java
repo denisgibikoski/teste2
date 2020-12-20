@@ -35,9 +35,8 @@ public class Cliente implements Serializable {
     @NotNull
     private Integer idade;
 
-    @JsonManagedReference
-    @JsonIgnore
-    @OneToOne(mappedBy="cliente")
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @JoinColumn(name = "cidade_id", nullable = false)
     private Cidade cidade;
 
     public Cliente() {
@@ -50,6 +49,14 @@ public class Cliente implements Serializable {
         this.nascimento = nascimento;
         this.idade = idade;
         this.cidade = cidade;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public String getNome() {

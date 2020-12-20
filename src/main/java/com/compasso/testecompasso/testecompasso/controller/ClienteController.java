@@ -2,7 +2,6 @@ package com.compasso.testecompasso.testecompasso.controller;
 
 
 import com.compasso.testecompasso.testecompasso.model.Cliente;
-import com.compasso.testecompasso.testecompasso.model.dto.ClienteDto;
 import com.compasso.testecompasso.testecompasso.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
