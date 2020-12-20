@@ -5,20 +5,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cidade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/CidadeDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/ClienteDto.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/controller/CidadeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/controller/CidadeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/controller/CidadeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/controller/ClienteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/controller/ClienteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/Cidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/Cidade.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/dto/CidadeDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/model/dto/ClienteDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/service/CidadeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/service/CidadeService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/service/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/compasso/testecompasso/testecompasso/service/ClienteService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,17 +34,18 @@
     <session id="-1646058636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="31" />
+          <entry key="class" value="2" />
+          <entry key="java" value="37" />
           <entry key="md" value="1" />
           <entry key="properties" value="5" />
           <entry key="xml" value="3" />
@@ -54,8 +53,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="31" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="37" />
           <entry key="Markdown" value="1" />
           <entry key="Properties" value="5" />
           <entry key="XML" value="3" />
@@ -63,14 +62,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1463" />
+          <entry key="java" value="2083" />
           <entry key="properties" value="33" />
+          <entry key="txt" value="5" />
           <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1463" />
+          <entry key="JAVA" value="2083" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="33" />
           <entry key="XML" value="12" />
         </counts>
@@ -80,47 +81,47 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="719">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+            <state relative-caret-position="442">
+              <caret line="37" column="57" selection-start-line="36" selection-start-column="11" selection-end-line="37" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,18 +149,18 @@
         <option value="$PROJECT_DIR$/src/test/java/com/compasso/testecompasso/testecompasso/cidadetest/CidadeTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/compasso/testecompasso/testecompasso/TestecompassoApplicationTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Sexo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/ClienteDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/CidadeDto.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cidade.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java" />
       </list>
     </option>
   </component>
@@ -301,7 +302,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608425402009" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608430054916" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -343,18 +344,27 @@
       <updated>1608324590272</updated>
       <workItem from="1608324591532" duration="11820000" />
       <workItem from="1608413219704" duration="3684000" />
-      <workItem from="1608417132992" duration="6879000" />
+      <workItem from="1608417132992" duration="11302000" />
+      <workItem from="1608490081549" duration="720000" />
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1608425443770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608425443770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22383000" />
+    <option name="totallyTimeSpent" value="27526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -372,7 +382,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -428,34 +438,53 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java</url>
-          <line>21</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java</url>
-          <line>36</line>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java</url>
-          <line>37</line>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -498,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.2/spring-web-5.3.2.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -522,16 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Sexo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -545,39 +557,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/CidadeDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/ClienteDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1423#1424#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1485#1486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/CidadeDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/dto/ClienteDto.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cidade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -590,20 +571,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.2/spring-web-5.3.2.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="175">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="248">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/model/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/ClienteRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,40 +631,40 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/repository/CidadeRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/ClienteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="952">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/CidadeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/controller/CidadeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        <state relative-caret-position="442">
+          <caret line="37" column="57" selection-start-line="36" selection-start-column="11" selection-end-line="37" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/compasso/testecompasso/testecompasso/service/ClienteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -5,6 +5,7 @@ import com.compasso.testecompasso.testecompasso.repository.CidadeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -20,5 +21,9 @@ public class CidadeService {
 
     public Cidade getCidade(String nome) {
         return cidadeRepository.findOneByNome(nome);
+    }
+
+    public List<Cidade> getEstado(String uf) {
+        return cidadeRepository.findAllByUf(uf);
     }
 }

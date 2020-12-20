@@ -32,12 +32,24 @@ public class CidadeController {
     }
 
     @GetMapping("/nome/")
-    public ResponseEntity<?> getStatusAtual(@Valid @RequestBody  JSONObject nome) {
+    public ResponseEntity<?> getCidadePorNome(@Valid @RequestBody  JSONObject nome) {
         try{
             JSONObject json = new JSONObject(nome);
             String nomeCidade = json.getAsString("nome");
 
-            return ResponseEntity.status(HttpStatus.CREATED).body(this.cidadeService.getCidade(nomeCidade));
+            return ResponseEntity.status(HttpStatus.OK).body(this.cidadeService.getCidade(nomeCidade));
+        }catch (Exception e){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
+        }
+    }
+
+    @GetMapping("/estado/")
+    public ResponseEntity<?> getCidadePorEstado(@Valid @RequestBody  JSONObject uf) {
+        try{
+            JSONObject json = new JSONObject(uf);
+            String nomeEstado = json.getAsString("uf");
+
+            return ResponseEntity.status(HttpStatus.OK).body(this.cidadeService.getEstado(nomeEstado));
         }catch (Exception e){
             return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
         }

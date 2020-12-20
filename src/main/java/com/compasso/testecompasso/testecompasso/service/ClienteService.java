@@ -24,4 +24,23 @@ public class ClienteService {
 
         return this.clienteRepository.save(cliente);
     }
+
+    public Cliente getClientePorNOme(String nome) {
+        return  clienteRepository.findFirstByNome(nome);
+    }
+
+    public Cliente getClientePorId(String id) {
+        Optional<Cliente> cliente = clienteRepository.findById(Long.valueOf(id));
+        return cliente.get();
+    }
+
+    public void deleteCliente(String id) {
+         clienteRepository.delete(this.getClientePorId(id));
+    }
+
+    public Cliente update(String id, String nomeCliente) {
+        Cliente cliente = this.getClientePorId(id);
+        cliente.setNome(nomeCliente);
+        return clienteRepository.save(cliente);
+    }
 }
