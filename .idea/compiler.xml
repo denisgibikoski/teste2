@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="testecompasso" target="15" />
+      <module name="testecompasso" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
